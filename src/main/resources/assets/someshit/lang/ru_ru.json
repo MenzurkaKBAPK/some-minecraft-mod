@@ -1,3 +1,6 @@
 {
-  "item.someshit.place": "Место"
+  "item.someshit.place": "Место",
+  "item.someshit.place_block": "Блок Места",
+
+  "block.someshit.place_block": "Блок Места"
 }

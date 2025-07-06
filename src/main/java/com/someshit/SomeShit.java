@@ -1,5 +1,6 @@
 package com.someshit;
 
+import com.someshit.block.ModBlocks;
 import com.someshit.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -15,6 +16,7 @@ public class SomeShit implements ModInitializer {
 		LOGGER.info("Some shit I coded initializing, look!");
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 		LOGGER.info("Some shit I coded done initializing. I hate myself <3");
 	}

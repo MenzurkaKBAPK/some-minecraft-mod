@@ -1,3 +1,6 @@
 {
-  "item.someshit.place": "Place"
+  "item.someshit.place": "Place",
+  "item.someshit.place_block": "Place Block",
+
+  "block.someshit.place_block": "Place Block"
 }
